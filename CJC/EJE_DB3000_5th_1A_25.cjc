@@ -1,5 +1,5 @@
 REM DIRINDEX 1\5,1\2\6,1\2\7,1\3\8,1\3\9,1\4\10,1\4\11,1\4\12
-REM DIRNAME cjc026,folder01,folder02,folder03,folder04,folder05,folder06,folder07,folder08,folder09,folder10,folder11
+REM DIRNAME folder01,folder02,folder03,folder04,folder05,folder06,folder07,folder08,folder09,folder10,folder11,folder12
 TITLE ""
 FILE "EJE_DB3000_5th_1A_25.mp3" MP3
   TRACK 01 AUDIO
